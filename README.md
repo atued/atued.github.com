@@ -1,2 +1,1 @@
-atued.github.com
-================
+atued
